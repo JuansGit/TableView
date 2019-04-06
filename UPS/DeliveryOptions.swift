@@ -1,5 +1,5 @@
 //
-//  Options.swift
+//  DeliveryOptions.swift
 //  UPS
 //
 //  Created by Consultant on 3/17/19.
@@ -8,6 +8,6 @@
 
 import Foundation
 
-class Options {
+class DeliveryOptions {
     
 }
